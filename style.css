@@ -1,0 +1,53 @@
+@import url("https://hackersm9.github.io/Fonts/fonts.css");
+@import url("https://hackersm9.github.io/free-icons/css/latest-icon.css");
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+html, body {
+  box-sizing: border-box;
+  color: #E3BAFF;
+  background-color: #020102;
+}
+
+section {
+    padding-top: 5px;
+    padding-bottom: 20px;
+  }
+  
+  h1 {
+    font-family: Sofia;
+    font-size: 3.5em;
+    color: #cb80ff;
+    text-align: center;
+  }
+  
+  hr {
+    width: 35%;
+    height: 6.6px;
+    display: block;
+    background-color: #7632aa;
+    border: 1px solid #7632aa;
+    border-radius: 500px;
+    box-shadow: 0 0 5px #7632aa;
+    padding: 0;
+    opacity: 0.9;
+    animation: glow 1.5s ease-in-out infinite;
+    -webkit-animation: glow 1.5s ease-in-out infinite;
+  }
+  
+  hr:hover {
+    opacity: 1;
+  }
+
+  .self_img {
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 693px;
+    height: 17em;
+  }
