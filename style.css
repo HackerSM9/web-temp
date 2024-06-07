@@ -25,7 +25,7 @@ section {
   }
   
   hr {
-    width: 35%;
+    width: 45%;
     height: 6.6px;
     display: block;
     background-color: #7632aa;
@@ -58,7 +58,7 @@ section {
   }
   
   .input {
-    width: 65%;
+
     padding: 10px 20px;
     color: #8707ff;
     border: 2px solid #8707ff;
